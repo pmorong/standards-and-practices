@@ -18,7 +18,7 @@ Overview
 
 LearnProgramming is an organization that grew out of the subreddit
 [/r/learnprogramming](http://www.reddit.com/r/learnprogramming/). Our aim is to provide
-a set of 'hackable' projects for beginners to contribute to in a open, encouraging 
+a set of 'hackable' projects for beginners to contribute to in an open, encouraging 
 atmosphere. 
 
 In many cases, it seems, new programmers feel daunted by the task of 
